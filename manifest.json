@@ -1,0 +1,12 @@
+{
+  "name": "MPM Connect",
+  "short_name": "MPM Connect",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#F3F5F8",
+  "theme_color": "#14213D",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
